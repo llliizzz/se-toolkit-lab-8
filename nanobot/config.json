@@ -24,7 +24,7 @@
   },
   "providers": {
     "custom": {
-      "apiKey": "",
+      "apiKey": "<qwen-code-api-key>",
       "apiBase": "http://localhost:42005/v1"
     }
   },
